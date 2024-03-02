@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /o_nas
+Disallow: /contact
+
+Host: https://venedor.netlify.app
+Sitemap: https://venedor.netlify.app/sitemap.xml
